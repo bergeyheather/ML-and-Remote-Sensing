@@ -1,3 +1,3 @@
-# ML_remote_sensing
+# chained_phytoplankton
 
-This is a working repository for my project in NASA's SARP 2019. 
+This is a working repository for my project started with NASA SARP 2019. 
